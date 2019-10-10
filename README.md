@@ -10,22 +10,22 @@
            * What problem does your capstone address?
            * User Focused Goals
            * Your Goals
-           * Describe any technology needed.
-           * List API's
-           * Define **MVP**
-               * Outline the features
-               * Specifications
-               * Functionality
-           * Define Stretch Goals
-               * List individual features
-           * Create an ERD
+         * Describe any technology needed.
+         * List API's
+         * Define **MVP**
+            * Outline the features
+            * Specifications
+            * Functionality
+         * Define Stretch Goals
+            * List individual features
+         * Create an ERD
            
 ## Share all of the following with the instruction team
    1. Proposal
    1. Github Repo
    1. Add ERD to your project `README.md`.
    1. Plan/outline the components your project will need. Show the data relationship (props and state). Add to your project `README.md`.
-   1. Mock-ups - hand draw or use a tool like https://moqups.com/ or google docs.
+   1. Mock-ups - hand draw or use a tool like https://moqups.com/ or google docs. Add to your project `README.md`
 
 
 ### Cool and Helpful Stuff
