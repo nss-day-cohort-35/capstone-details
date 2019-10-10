@@ -11,7 +11,7 @@
            * User Focused Goals
            * Your Goals
          * Describe any technology needed.
-         * List API's
+         * List any API's you will be using (an API is not necessary).
          * Define **MVP**
             * Outline the features
             * Specifications
