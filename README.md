@@ -25,7 +25,7 @@
    1. Github Repo
    1. Add ERD to your project `README.md`.
    1. Plan/outline the components your project will need. Show the data relationship (props and state). Add to your project `README.md`.
-   1. Mock-ups - hand draw or use a tool like https://moqups.com/ or google docs. Add to your project `README.md`
+   1. Mock-ups - hand draw or use a tool like https://moqups.com/, google docs or https://www.figma.com/. Add to your project `README.md`
 
 
 ### Cool and Helpful Stuff
