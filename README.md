@@ -4,6 +4,7 @@
 1. Share your idea with Brenda and get `thumbs-up`
 1. Once you have your proposal, you will meet with an instruction team member to confirm your **realistic MVP**.
 2. **Proposal** - Use Google Docs and provide a link.
+   * October 17, 2019: Capstone Final Proposals DUE (EOD)
     * **Project Overview**
         * Consider:
            * What problem does your capstone address?
