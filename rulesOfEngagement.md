@@ -20,3 +20,4 @@
 ## Friday November 1 - Soft Demos of MVP
 
 ## Tuesday November 12 - DEMO TIME.
+[Presentation Details](capstone-presentation.md)
