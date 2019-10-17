@@ -6,7 +6,7 @@
 * You will have a project mentor.
 * The instruction team is available for all technical questions.
 * Daily Standups with mentoring group.
-* One-on-Ones will start today.
+* One-on-Ones will start tomorrow.
 
 
 ## Before asking for help, answer these 5 questions.
