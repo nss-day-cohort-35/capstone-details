@@ -1,6 +1,8 @@
 # Capstone Time - Getting Started
 
 1. Your capstone is a single page app created with React.
+1. CRUD is an easy way to get there.
+1. Your capstone should demonstrate what you have learned during the first three months at NSS.
 1. Share your idea with Brenda and get `thumbs-up`
 1. Once you complete your proposal, you will meet with an instruction team member to confirm your **realistic MVP**.
 1. **Proposal** - Use Google Docs and provide a link. [Example.md](Example.md)
