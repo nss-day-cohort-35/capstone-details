@@ -5,7 +5,7 @@
 1. Your capstone should demonstrate what you have learned during the first three months at NSS.
 1. Share your idea with Brenda and get `thumbs-up`
 1. Once you complete your proposal, you will meet with an instruction team member to confirm your **realistic MVP**.
-1. **Proposal** - Use Google Docs and provide a link. **[View this Example.md]**(Example.md)
+1. **Proposal** - Use Google Docs and provide a link. **Checkout this >>** [Example.md](Example.md)
     * Capstone Final Proposals DUE (EOD) - October 17, 2019
     * **Project Overview**
         * Consider:
